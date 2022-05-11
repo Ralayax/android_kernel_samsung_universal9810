@@ -294,7 +294,7 @@ static unsigned int star_a3_s0_brt_to_step_tbl[S6E3HA8_STAR_TOTAL_PAC_STEPS] = {
 	41200, 41500, 41800, 42100, 42500, 42800, 43100, 43400, 43700, 44100, 44400, 44700,
 #endif
 #ifdef CONFIG_LCD_EXTEND_HBM
-	44800,
+	44000,
 #endif
 };
 #elif PANEL_BACKLIGHT_PAC_STEPS == 256
